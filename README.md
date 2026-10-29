@@ -163,3 +163,7 @@ your version.
   `CLAUDE.md`, or as a path-scoped rule in `.claude/rules/` once the project is big.
 - **Removing the kit:** delete `.claude/`, the kit's `CLAUDE.md` sections,
   and the `.gitignore` lines.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
