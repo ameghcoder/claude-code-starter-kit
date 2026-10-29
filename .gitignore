@@ -1,0 +1,6 @@
+# Local task files: plans, checks, notes. Never committed; the durable record
+# is the GitHub issue (tasks) and docs/decisions/ (decisions).
+.temp/
+
+# Personal Claude Code settings; the skills in .claude/skills/ are shared.
+.claude/settings.local.json
